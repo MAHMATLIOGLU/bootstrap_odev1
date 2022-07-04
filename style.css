@@ -1,0 +1,17 @@
+.background{
+    background-color:  #E9ECEF;
+}
+
+.article{
+    padding-left: 10px;
+}
+
+ul#urun {
+    display: block;
+    width: 80px;
+    margin: 0 auto;}
+
+.card-img-top {
+    width: 400px;
+    height: 400px;
+}    
